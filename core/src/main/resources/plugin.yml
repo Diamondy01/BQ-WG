@@ -7,7 +7,6 @@ api-version: 1.13
 main: fr.skytasul.quests.BeautyQuests
 
 softdepend:
-- WorldGuard
 - MythicMobs
 - Vault
 - PlaceholderAPI
